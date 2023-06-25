@@ -43,7 +43,7 @@ class _MyAppState extends State<MyApp> {
             ),
             centerTitle: true,
             title: Text(
-              "Energy Cloud",
+              "Mahmoud Azab",
               style: TextStyle(
                 color: Colors.white,
                 fontSize: screenAwareSize(18.0, context),
